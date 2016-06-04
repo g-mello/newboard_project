@@ -8,7 +8,7 @@ Some Vim Plugins are required, install them with your favorite Plugin Manager:
 [YouCompleteMe Configuration example](https://gist.github.com/ajford/f551b2b6fd4d6b6e1ef2 )  
 [Syntastic](https://github.com/scrooloose/syntastic )  
 
-[Tutorial](
+You can view a step-by-step tutorial [here:](
 http://g-mello.github.io/all/2016/05/28/Integrating_Platformio_with_Vim.html )
 
 
